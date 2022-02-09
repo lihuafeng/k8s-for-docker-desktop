@@ -41,7 +41,7 @@
 
 ![mirror](images/mirror.png)
 
-可选操作: 为 Kubernetes 配置 CPU 和 内存资源，建议分配 4GB 或更多内存。 
+可选操作: 为 Kubernetes 配置 CPU 和 内存资源，建议分配 4GB(小于4可能会不成功) 或更多内存。 
 
 ![resource](images/resource.png)
 
